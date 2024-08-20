@@ -22,6 +22,23 @@ This project is a starting point for a Flutter application.
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+
+  
+## Getting Started
+
+### Prerequisites
+
+- Flutter SDK
+- A text editor or IDE like Visual Studio Code or Android Studio
+
+### Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/ethanol_chart_app.git
+   cd ethanol_chart_app
+
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
